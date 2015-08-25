@@ -17,6 +17,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"this is a test");
+    NSLog(@"this is the second test");
+
 }
 
 - (void)didReceiveMemoryWarning {
