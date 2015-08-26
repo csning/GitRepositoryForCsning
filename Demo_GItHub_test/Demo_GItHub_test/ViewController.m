@@ -18,8 +18,13 @@
     [super viewDidLoad];
     NSLog(@"this is a test");
     NSLog(@"this is the second test");
-
+    [[NSNotificationCenter  defaultCenter] addObserver:self selector:@selector(程序猿:) name:UIApplicationDidEnterBackgroundNotification object:nil];
+    
 }
+- (void)程序猿:(NSString *)fast {
+    NSLog(@"%@",[NSRunLoop currentRunLoop]);
+}
+
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
