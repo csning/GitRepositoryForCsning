@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://csning.github.io/GitRepositoryForCsning/sitemap.xml 

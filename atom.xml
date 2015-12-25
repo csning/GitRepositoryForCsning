@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[菜叶的技术博客]]></title>
+  <link href="http://csning.github.io/GitRepositoryForCsning/atom.xml" rel="self"/>
+  <link href="http://csning.github.io/GitRepositoryForCsning/"/>
+  <updated>2015-12-25T11:45:59+08:00</updated>
+  <id>http://csning.github.io/GitRepositoryForCsning/</id>
+  <author>
+    <name><![CDATA[csning]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[My First Blog]]></title>
+    <link href="http://csning.github.io/GitRepositoryForCsning/blog/2015/12/25/my-first-blog/"/>
+    <updated>2015-12-25T11:30:03+08:00</updated>
+    <id>http://csning.github.io/GitRepositoryForCsning/blog/2015/12/25/my-first-blog</id>
+    <content type="html"><![CDATA[<p>尽管多数程序员对加班深恶痛绝，但加班并不是毫无作用。首先它有很多负面作用：</p>
+
+<p>让程序员厌恶眼下的工作
+让程序员厌恶传递加班指示的领导
+让程序员厌恶所在的团队
+让程序员厌恶所在的公司
+让程序员无法对他需要照顾的家人交代
+让程序员怀疑他所从事的这一行是否能长久干下去
+降低工作效率
+浪费公司资源（水、电、办公用品等）
+耽误正常工作
+造成“正常工作时间瞎胡混，加班赶白天落下的进度”这种工作方式
+有效降低程序员的工作积极性
+交付低质量和埋了各种雷的产品
+其次，实际上，不管对个人还是对公司，它也可能多多少少有一些“积极”作用：</p>
+
+<p>造成一种假象，让领导觉得大家都在忙，心里踏实
+造成团队凝聚力、执行力高的假象
+不能按时交付时，向老板和客户展示努力的过程，给个不是交代的交代
+对于依赖工时的任务，是有效的
+有助于那些不推不动的人产出点东西
+对于海绵一样的新手或极度渴望学习的程序员，可以学到一些知识、技能、经验
+磨练程序员的心性，让程序员变得敷衍或者淡然
+影响绩效。</p>
+]]></content>
+  </entry>
+  
+</feed>
